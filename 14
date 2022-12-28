@@ -1,0 +1,12 @@
+package hw12_14.java;
+
+public class homework {
+
+	public static void main(String[] args) {
+		String str="Habit is a second nature.";
+		System.out.println("string=" +str);
+		 System.out.println("sub-string="+str.substring(16,22));
+
+	}
+
+}
